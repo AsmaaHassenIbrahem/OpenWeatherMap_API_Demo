@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OpenWeatherMapDemo</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_location_permission">Location</string>
+    <string name="text_location_permission">plz access ur location</string>
+    <string name="ok">Ok</string>
+    <string name="gps_error">Locaion not available</string>
+    <string name="api_error">Api Error</string>
+</resources>
